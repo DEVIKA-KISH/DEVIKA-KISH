@@ -1,6 +1,5 @@
 # 💫 About Me:
 
-Introduction<br><br>
 Hi, I’m **Devika Kishor** 👋<br>
 I’m a **Master’s student in Cybersecurity** at **Florida Institute of Technology**.<br>
 Passionate about **digital forensics**, **malware analysis**, and **secure software development**!<br><br>
