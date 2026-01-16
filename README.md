@@ -1,5 +1,21 @@
 # 💫 About Me:
-Introduction<br><br>Hi, I’m Devika Kishor 👋<br>I’m a Master’s student in Cybersecurity at Florida Institute of Technology.<br>Passionate about digital forensics, malware analysis, and !<br><br>About Me<br><br>🔭 I’m currently working on: Mobile IoT Memory Forensics (Android 15 + LiME + Volatility 3)<br><br>🌱 I’m learning: Reverse engineering, kernel memory mapping,Android forensics <br><br>💬 Ask me about: Java, Python, Network Security, Cyber Forensics<br><br>⚡ Fun fact: I love designing forensic simulations  and making lesson plans 
+
+Introduction<br><br>
+Hi, I’m **Devika Kishor** 👋<br>
+I’m a **Master’s student in Cybersecurity** at **Florida Institute of Technology**.<br>
+Passionate about **digital forensics**, **malware analysis**, and **secure software development**!<br><br>
+
+About Me<br><br>
+🔭 I’m currently working on: **Mobile IoT Memory Forensics (Android 15 + LiME + Volatility 3)**<br>
+💻 Exploring forensic acquisition techniques for **medical IoT devices** and building **Docker-based analysis environments**.<br><br>
+
+🌱 I’m learning: **Reverse engineering**, **kernel memory mapping**, **Android forensics**, and **secure application design**.<br><br>
+
+💬 Ask me about: **Java**, **Python**, **Full-Stack Development**, **Network Security**, and **Cyber Forensics**.<br><br>
+
+⚡ Fun fact: I love transforming cybersecurity workflows into **interactive forensic labs and creative teaching tools**.<br>
+I also enjoy **designing research-driven security projects** that blend **forensics**, **coding**, and **UI/UX creativity**.
+ 
 
 
 ## 🌐 Socials:
@@ -12,7 +28,7 @@ Introduction<br><br>Hi, I’m Devika Kishor 👋<br>I’m a Master’s student i
 ![](https://nirzak-streak-stats.vercel.app/?user=DEVIKA-KISH&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVIKA-KISH&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
